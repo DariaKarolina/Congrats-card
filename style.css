@@ -72,8 +72,7 @@ body{
     border-radius: 200px 500px 400px 400px;
     margin: 0 auto;
     position: relative;
-    /* top: 30px; */
-    left: 100px;
+    /* left: 20px; */
     transform: scale(.8) rotate(45deg);
     -webkit-animation: jumping 2s infinite alternate ease-out 2s;
 }
